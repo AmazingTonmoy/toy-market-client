@@ -1,0 +1,22 @@
+.banner-left {
+  margin-top: 100px;
+}
+.banner-right {
+  margin-top: 50px;
+}
+
+.banner-btn {
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 576px) {
+  .banner-left {
+    margin-top: 10px;
+  }
+
+  .banner-right {
+    margin-top: 0px;
+  }
+}

@@ -1,0 +1,33 @@
+.my-toys-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+.table-responsive {
+  overflow-x: unset;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.my-toys-table {
+  width: 100%;
+}
+
+td,
+th {
+  text-align: center;
+}
+
+th {
+  background-color: #f5f5f5;
+}
+
+tr:nth-child(even) td {
+  background-color: #fafafa;
+}
+.my-toy-img {
+  margin-right: 0;
+}

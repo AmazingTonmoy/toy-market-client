@@ -1,0 +1,42 @@
+.carousel-item{
+    height: 400px;
+    padding: 25px;
+    
+
+   
+   
+}
+
+
+/* .carousel-inner{
+    border-radius: 50%;
+} */
+.caro-img{
+    border-radius: 70px;
+}
+
+
+
+.carousel-control-next-icon{
+    background-color: rgb(76, 83, 83);
+}
+.carousel-control-prev-icon{
+    background-color: rgb(76, 83, 83);
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 0px;
+}
+
+
+@media only screen and (max-width: 576px) {
+    .carousel-item {
+
+        height: 300px;
+         }
+
+   
+
+
+  }
+    
